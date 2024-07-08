@@ -12,8 +12,8 @@
 <script setup>
     import { ref, onMounted } from 'vue';
     import { useI18n } from 'vue-i18n';
-    const { setLocale } = useI18n();
-    const currentLanguage = ref('en-US');
+    const { locale, setLocale } = useI18n();
+    const currentLanguage = ref(locale.value);
     const languageChange = async (lang) => {
         await setLocale(lang);
         currentLanguage.value = lang;
