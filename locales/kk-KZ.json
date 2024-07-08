@@ -1,0 +1,11 @@
+{
+    "searchCityInput": "Қаланы табу",
+    "searcCityBtn": "Табу",
+    "emptyInput": "Қаланың атын жазыңыз",
+    "loadingInput": "Жүктелуде",
+    "invalidInput": "Қаланың аты қате",
+    "cityOutput":"Ауа райы",
+    "humidity": "Ылғалдылық",
+    "wind": "Желдің жылдамдығы",
+    "apiQueryLang": "kz"
+}

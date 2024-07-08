@@ -1,0 +1,11 @@
+{
+    "searchCityInput": "Поиск города",
+    "searcCityBtn": "Найти",
+    "emptyInput": "Введите название города",
+    "loadingInput": "Загрузка",
+    "invalidInput": "Недействительное название города",
+    "cityOutput":"Погода в ",
+    "humidity": "Влажность",
+    "wind": "Скорость ветра",
+    "apiQueryLang": "ru"
+}

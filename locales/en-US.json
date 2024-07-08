@@ -1,0 +1,11 @@
+{
+    "searchCityInput": "Search for a city",
+    "searcCityBtn": "Search",
+    "emptyInput": "Enter a city name",
+    "loadingInput": "Loading",
+    "invalidInput": "Invalid city name",
+    "cityOutput":"Weather in ",
+    "humidity": "Humidity",
+    "wind": "Wind speed",
+    "apiQueryLang": "en"
+}
